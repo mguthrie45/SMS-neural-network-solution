@@ -1,0 +1,12 @@
+Make sure that a DB file is located in the directory "C:\spring22\data\cache" called "enccache.db"
+
+If not, use Main.cacheData()
+  This will only work if text files a-e are located in the directory "C:\spring22\data"
+
+Modules:
+Tensorflow
+Keras
+Numpy
+sqlite3
+PyQt5
+Matplotlib
